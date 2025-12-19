@@ -1,8 +1,8 @@
-# BSV_Crawler
+# BSV_crawler
 
 ## 项目简介
 
-### 这可能是你见过最好用的百度街景爬取工具："BSV_Crawler" is all you need.
+### 这可能是你见过最好用的百度街景爬取工具："BSV_crawler" is all you need.
 
 ## 主要功能
 
